@@ -1,0 +1,10 @@
+name=MonochromeTCG
+author=Antigravity
+description=A monochrome card game prototype.
+bundleID=com.antigravity.monochrometcg
+version=1.0.0
+buildNumber=1
+imagePath=
+launchSoundPath=
+contentWarning=
+contentWarning2=
